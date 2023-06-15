@@ -1,1 +1,3 @@
 # Business_Proposal_Food_Delivery
+
+In the last months of 2021 when we all were busy entertaing another variant of Covid-19, hassle of chosing between dining and delivey was observed and that's how this buisness proposal came into the picture. This is a proposal for a food delievry startup named as '140°F' (temperature at which food should be served generally) where the problems related to food delivery were taken into consideration. With some technical and real life specifcations, the delivery box was innovated. Key industry competitors, key industry drivers, setup, expenses, marketing, and revenue, market research was conducted considering all these factors and hence documented into a final proposal.
